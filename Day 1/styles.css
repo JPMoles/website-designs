@@ -27,15 +27,41 @@ header {
 }
 
 h1 {
-    margin: 0.2em 2vw;
+    margin: auto;
+    font-size: 2.5rem;
     font-family: 'Bebas Neue';
-    display: inline-block;
+    height: 100%;
+    display: flex;
+    float: left;
+    align-items: center;
+    padding: 0 2vw;
 }
 
 .nav-button {
-    padding: 12px;
+    display: flex;
+    float: left;
+    height: 100%;
+}
+
+.nav-button:hover {
+    background-color: var(--dark-accent);
+}
+
+.nav-button a {
+    padding: 0 1vw;
+    display: flex;
     margin: auto;
-    display: inline-block;
+    height: 100%;
+    align-items: center;
+    text-decoration: none;
+}
+
+.nav-button a:visited {
+    color: var(--text-color-light);
+}
+
+.nav-button a:hover {
+    color: var(--text-color-light);
 }
 
 .jumbotron {
