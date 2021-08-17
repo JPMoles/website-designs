@@ -81,10 +81,20 @@ h1 {
     background-color: var(--dark-contrast);
     width: 100%;
     height: 35vh;
+    display: flex;
+    justify-content: space-between;
 }
 
 .cards {
-
+    background-color: var(--text-color-light);
+    border-radius: 10px;
+    margin: 2vh 1vw 2vh 1vw;
+    display: flex;
+    width: 30vw;
+    height: 31vh;
+    box-sizing: border-box;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.3) 9px 10px 0px 0px;
 }
 
 .quote-section {
