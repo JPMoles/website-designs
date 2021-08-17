@@ -99,12 +99,25 @@ h1 {
 
 .quote-section {
     background-color: var(--light-accent);
+    color: var(--text-color-light);
     width: 100%;
     height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-text {
+    font-family: 'Pinyon Script';
+    font-size: 2.5em;
+    display: flex;
+    justify-content: center;
+    margin: 0 10vw;
 }
 
 .about-section {
     background-color: var(--text-color-light);
+    color: var(--dark-contrast);
     width: 100%;
     height: 64vh;
 }

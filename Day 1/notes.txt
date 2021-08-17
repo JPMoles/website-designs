@@ -1,3 +1,8 @@
+Day 1 - No CSS Frameworks
+
+I used the "Visbug" google chrome extension to help with positioning.
+
 Waterfall picture taken from: https://unsplash.com/photos/zNN6ubHmruI
 Free to use with unsplash license (no attribution necessary).
 
+https://colormind.io was used to help generate a color pallete.
