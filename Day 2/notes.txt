@@ -1,0 +1,6 @@
+Used this youtube video as a reference for learning to make an interactive side-navbar:
+https://www.youtube.com/watch?v=biOMz4puGt8
+
+Used icons for the navbar from font-awesome:
+https://fontawesome.com/license
+
