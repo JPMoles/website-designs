@@ -1,0 +1,31 @@
+:root {
+    --ligh-text-color: white;
+    --dark-text-color: #940818;
+
+    --light-accent: #D45C42;
+    --primary-color: #B63D2B;
+    --dark-accent: #A0201C;
+    --dark-contrast: #940818;
+
+    --font-size: 16px;
+    font-size: var(--font-size);
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: var(--primary-color);
+    width: 5vw;
+    height: 100vh;
+    font-size: var(--font-size);
+}
+
+nav a {
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+    display: block;
+}
