@@ -1,0 +1,4 @@
+Day 3 - Vue.js
+
+Idea for today is to start learning a css framework like tailwindcss. Maybe a color pallete with red and blue.
+
