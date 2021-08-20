@@ -2,3 +2,13 @@ Day 4 - Curves and Generated Images
 
 My idea for today is to create seamless transitions between sections on the page. I can
 do this with curves and generated images to make for a visually appealing design.
+
+Followed another Fireship tutorial for making and understanding curves: https://www.youtube.com/watch?v=lPJVi797Uy0
+
+Curves and effects generated from these two sites:
+https://www.shapedivider.app/
+https://app.haikei.app/
+
+
+Javascript Animation Engine:
+https://thednp.github.io/kute.js/
