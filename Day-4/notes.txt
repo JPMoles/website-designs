@@ -1,0 +1,4 @@
+Day 4 - Curves and Generated Images
+
+My idea for today is to create seamless transitions between sections on the page. I can
+do this with curves and generated images to make for a visually appealing design.
