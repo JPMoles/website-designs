@@ -1,0 +1,7 @@
+Day 8 - Random Fun Web Stuff
+
+Today I am trying out some random things that looked like fun to work with:
+
+Three.js - a javascript library for 3d animations
+
+Avatars api - for generating avatars with different parameters
